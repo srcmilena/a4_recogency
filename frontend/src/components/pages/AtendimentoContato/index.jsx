@@ -1,4 +1,7 @@
 import React, { Component }  from 'react';
+import './style.css';
+import api from '../../../Api';
+
 export default function AtendimentoContato() {
     return ( 
         <>
@@ -13,9 +16,9 @@ export default function AtendimentoContato() {
                         <input class="input" type="email" /><br />
 
                         <label>Mensagem: </label><br />
-                        <textarea name="msg" id="msg"></textarea><br />
+                        <textarea name="msg" id='msg'></textarea><br />
 
-                        <input id="btn-enviar" type="submit" value="Enviar" />
+                        <input class="btn-enviar" type="submit" value="Enviar" />
 
                     </form>
             </div>
