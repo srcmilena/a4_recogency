@@ -18,28 +18,28 @@ import com.recogency.recode.repositories.ClienteRepository;
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
-@RequestMapping("/api/v1")
+@RequestMapping("/cliente")
 public class ClienteResource {
 	
 	@Autowired
 	private ClienteRepository repository;
 	
-	@GetMapping("/cliente")
+	@GetMapping("/")
 	public List<Cliente> getAllClientes() {
 		return repository.findAll();
 	}
 	
-	@GetMapping("/cliente/{id}")
+	@GetMapping("/atualizar/{id}")
 	public Cliente getClienteById(@PathVariable Long id) {
 		return repository.findById(id).get();
 	}
 	
-	@PostMapping("/cliente")
+	@PostMapping("/salvar")
 	public Cliente saveCliente(@RequestBody Cliente cliente) {
 		return repository.save(cliente);
 	}
 	
-	@DeleteMapping("/cliente/{id}")
+	@DeleteMapping("/deletar/{id}")
 	public void deleteCliente(@PathVariable Long id) {
 		repository.deleteById(id);
 	}
