@@ -5,7 +5,7 @@ A aplicação envolve desenvolvimento front end e back end.
 <div align="center">
   <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648759111/v2_v3_recogency_destinos_ghenpf.jpg"/>
   </br></br></br>
-  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648759111/v2_v3_recogency_contato_oafm2y.jpg"/>
+  <img src="https://res.cloudinary.com/srcmilena/image/upload/c_scale,h_304,w_610/v1648759111/v2_v3_recogency_contato_oafm2y.jpg"/>
 </div>
 
 ## Anúncio plataforma Recode Pro:
