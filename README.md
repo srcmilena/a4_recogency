@@ -8,7 +8,7 @@ A aplicação envolve desenvolvimento front end e back end.
   <img src="https://res.cloudinary.com/srcmilena/image/upload/c_scale,h_304,w_610/v1648759111/v2_v3_recogency_contato_oafm2y.jpg"/>
 </div>
 
-## Anúncio plataforma Recode Pro:
+## Anúncio na plataforma Recode Pro:
 "Olá, estudante!
 
 Agora, seguindo padrões de projeto, vamos atualizar mais uma vez nossa aplicação WEB Agência de Viagens, usando o Ecosistema Spring, com Front-end usando ReactJS e Back end com Java Spring Boot, Spring MVC, persistencia de Dados com Hibernate e Spring Security. 
