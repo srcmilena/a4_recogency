@@ -3,9 +3,9 @@ A Recogency faz parte de uma idéia criada para as entregas individuais do curso
 A aplicação envolve desenvolvimento front end e back end.
 
 <div align="center">
-  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648756763/v2_v3_recogency_promocoes_ta2dbd.jpg"/>
+  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648759111/v2_v3_recogency_destinos_ghenpf.jpg"/>
   </br></br></br>
-  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648756763/v2_v3_recogency_cadastro_hzpt8a.jpg"/>
+  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648759111/v2_v3_recogency_contato_oafm2y.jpg"/>
 </div>
 
 ## Anúncio plataforma Recode Pro:
